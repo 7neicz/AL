@@ -1,7 +1,7 @@
 {
-  "apiBaseUrl": "https://zac-production-5ef4.up.railway.app",
+  "apiBaseUrl": "https://xyp-production-fbcf.up.railway.app",
   "xypherBodzRuntime": {
-    "url": "wss://zac-production-5ef4.up.railway.app/api/xypher-bodz-runtime-v3",
+    "url": "wss://xyp-production-fbcf.up.railway.app/api/xypher-bodz-runtime-v3",
     "protocol": "xypher-bodz-runtime-v3"
   },
   "version": 3
