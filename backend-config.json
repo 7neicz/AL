@@ -1,5 +1,5 @@
 {
-  "apiBaseUrl": "https://xypherbodz.up.railway.app",
+  "apiBaseUrl": "https://xyphery.up.railway.app",
   "xypherBodzRuntime": {
     "url": "wss://xyphery.up.railway.app/api/xypher-bodz-runtime-v3",
     "protocol": "xypher-bodz-runtime-v3"
